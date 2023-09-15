@@ -34,6 +34,10 @@ To run the game, start the Bun server using the command "bun server.js" and open
 Contributing:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-License
+
+
+License:
+
+MIT
 
 
