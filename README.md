@@ -1,7 +1,9 @@
 Pong Game
 
 This repository contains a simple implementation of the classic Pong game using JavaScript and HTML5 Canvas. The game includes a player-controlled paddle and an AI-controlled paddle. The player can control the speed of the game and toggle a dark mode for the game interface.
-Files
+
+
+Files:
 
 - pong.html: This is the main HTML file that contains the structure of the game interface. It includes a start menu with a start button, a dark mode toggle button, and a speed changer dropdown. The game is displayed on a canvas element.
 
@@ -15,7 +17,9 @@ Game Elements
 - Ball: The ball moves across the screen and bounces off the paddles and the top and bottom edges of the screen.
 
 - Scores: The scores of the player and the AI are displayed on the screen.
-Game Features
+
+
+Game Features:
 
 - Dark Mode: The player can toggle a dark mode for the game interface.
 
@@ -25,7 +29,9 @@ Game Features
 Running the Game
 
 To run the game, start the Bun server using the command bun server.js and open your browser to http://localhost:3000.
-Contributing
+
+
+Contributing:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 License
