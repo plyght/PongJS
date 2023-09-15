@@ -28,7 +28,7 @@ Game Features:
 - Start/Reset Game: The player can start a new game using the start button. The game can be reset by pressing the Escape key.
 Running the Game
 
-To run the game, start the Bun server using the command 'bun server.js' and open your browser to http://localhost:3000.
+To run the game, start the Bun server using the command "bun server.js" and open your browser to http://localhost:3000.
 
 
 Contributing:
